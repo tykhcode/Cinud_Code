@@ -3,4 +3,7 @@ tentatives = 18
 taux = 0.25 
 journal_actif = True 
 
-print(nom, tentatives, taux, journal_actif)
+print("Le nom est :", nom)
+print("Le nombre de tentatives est :", tentatives)
+print("Le taux est :", taux)
+print("Le journal est actif :", journal_actif)
